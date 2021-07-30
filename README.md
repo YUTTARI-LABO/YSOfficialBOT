@@ -2,7 +2,7 @@
 Official discordBOT of the Yuttari Server
 
 # (自分・初心者用）コミット等の仕方のメモ
-*現在の状態を確認...`git status`
+* 現在の状態を確認...`git status`
 
 * ファイルをインデックスに追加...`git add <FILE>`
 
